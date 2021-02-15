@@ -4,7 +4,7 @@
 
     <groupId>au.gov.nehta</groupId>
     <artifactId>trd-wsdl-tls</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
     <name>TRD TLS Compiled WSDL library</name>
     <description>Java classes for SMD development</description>
     <url>https://github.com/AuDigitalHealth/trd-wsdl-tls-java</url>
