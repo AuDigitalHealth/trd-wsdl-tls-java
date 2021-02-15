@@ -55,13 +55,10 @@
     </distributionManagement>
 
     <dependencies>
-        <!-- Initially for testing. Final location will be Maven repo -->
         <dependency>
             <groupId>au.gov.nehta</groupId>
             <artifactId>smd-wsdl-common</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/src/main/resources/lib/smd-wsdl-common-1.0.3-SNAPSHOT.jar</systemPath>
+            <version>1.0.3</version>
         </dependency>
     </dependencies>
 
